@@ -20,7 +20,7 @@ export default function PlayerProfile() {
         <div className="text-center">
           <div className="w-16 h-16 rounded-full overflow-hidden mx-auto mb-4">
             <img 
-              src="/Resources/Badge.png" 
+              src="https://previews.dropbox.com/p/thumb/ACp9G9F8CWk2nzodJseuGKHRBSdjoQ8YYBOAlkVQsWtGAZTZ-3Ldn7S6t5JTr8-YZ2YBJcV9y7-7yOZNFEoLLG7pZtEtb0KyM_AnjDQPxXIL-uFGU5UgkOD4C5yJ2t1koPGibv8T9y0swcadaNGfszC94Dcx7dDNbVD9Z7jGkLDEzxLKluvHkKES73vcJOovYUVd6AeFp-NfyCNhjlL_-KVlZ3ya8uBHZTRSeO_VI7qWcNWLwMi8reYQf1Bvg8sOrkhh1kk2UWcE1tzoYZBOci5nkSZCPOgeBDT3m1F98hTw1owVHPH2qYgPCCdmgM7W7rjipPAGf9aP_6pW1wD_YFe2/p.png?is_prewarmed=true" 
               alt="Real Breda CF" 
               className="w-full h-full object-cover animate-pulse"
             />
